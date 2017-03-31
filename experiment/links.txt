@@ -1,0 +1,3 @@
+https://jsfiddle.net/hb8a7ys8/
+http://stackoverflow.com/questions/21002659/rotate-image-around-its-center-using-easeljs-canvas-javascript-while-image-rema
+https://paulmontgomerycode.wordpress.com/2014/05/14/html5-canvas-training-course-2/
